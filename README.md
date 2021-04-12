@@ -2,7 +2,6 @@
 - 👀 I’m interested in web, visual design and new technologies
 - 🌱 I’m currently learning modern Front-End development
 - 💞️ I’d like to collaborate on an Open Source library or project in the future !
-- 📫 You can reach me on GitHub or by sending an e-mail to: valentin _**dot**_ reina _**at**_ icloud _**dot**_ com
 
 *This repository will act as a way for me to track my progress, but also showcase the projects I made / I'm working on ✨*
 
